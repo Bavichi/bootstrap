@@ -2,7 +2,7 @@
 
 See the [contributing guidelines](CONTRIBUTING.md) for sharing bug reports.
 
-### How-to
+### How
 
 For general troubleshooting or help getting started:
 
